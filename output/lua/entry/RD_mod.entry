@@ -1,0 +1,4 @@
+modEntry = {
+         FileHooks = "lua/RD_FileHooks.lua",
+         Priority = 10
+}
