@@ -1,0 +1,7 @@
+
+[master]
+name            = "Wooza's Hodgepodge"
+tags            = ["Gameplay Tweak", "Must be run on Server"]
+autodescription = true
+description     = "README.txt"
+preview         = "preview.jpg"
