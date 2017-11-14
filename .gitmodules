@@ -1,0 +1,3 @@
+[submodule "dependencies/Wooza-s-Potpourri"]
+	path = dependencies/Wooza-s-Potpourri
+	url = https://github.com/woozasmoddingteam/Wooza-s-Potpourri.git
