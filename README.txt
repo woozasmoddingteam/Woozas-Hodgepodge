@@ -1,15 +1,1 @@
-Assortment of mods, to be used for NS2 servers (Not recommended for custom game modes).
-
-Contains:
-[list]
-[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=788456684]Gorge Tunnel Control[/url] by Steelcap
-[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=784131783&searchtext=flame]Flame Sentry[/url] by Katzenfleisch and 4Horsemen
-[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=679125115&searchtext=]Whip Rebalance by Nin[/url]
-[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=847314629&searchtext=]Team Size based Resource Tickrate by >KoR<Frisqy.ViruS[/url]
-[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=679125115&searchtext=]Shine JoinTeam by Bof [/url]
-[/list]
-
-Mod Temporary removed:
-[list]
-[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=808877954&searchtext=dissolve]Delayed Ragdoll Dissolve[/url] - Can cause Client FPS drops as engine is atm unoptimized for ragdolls.
-[/list]
+Extension of Potpourri that also includes NS2-mode specific mods
