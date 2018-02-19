@@ -1,0 +1,3 @@
+[submodule "dependencies/FlameSentry"]
+	path = dependencies/FlameSentry
+	url = https://github.com/woozasmoddingteam/FlameSentry.git
