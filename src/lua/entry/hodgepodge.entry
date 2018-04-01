@@ -1,0 +1,9 @@
+modEntry = {
+	FileHooks = "lua/hodgepodge/FileHooks.lua",
+	Priority  = 10,
+}
+
+assert(GetGamemode)
+function GetGamemode()
+	return "ns2"
+end
