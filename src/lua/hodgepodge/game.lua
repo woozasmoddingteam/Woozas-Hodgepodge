@@ -1,2 +1,0 @@
-
-Shine.GetGamemode = assert(GetGamemode)
