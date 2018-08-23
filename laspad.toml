@@ -5,3 +5,11 @@ autodescription = true
 description     = "README.txt"
 preview         = "preview.jpg"
 website         = "https://github.com/woozasmoddingteam/Wooza-s-Hodgepodge"
+
+[beta]
+name            = "Wooza's Hodgepodge - Beta "
+tags            = ["Gameplay Tweak", "Must be run on Server"]
+autodescription = true
+description     = "README.txt"
+preview         = "preview.jpg"
+website         = "https://github.com/woozasmoddingteam/Wooza-s-Hodgepodge"
