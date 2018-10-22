@@ -1,0 +1,1 @@
+kHadesDeviceDamage = 10000
