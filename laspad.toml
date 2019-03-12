@@ -4,7 +4,6 @@ dependencies = [
 	"3417DBEF", # Hades Device
 	"349DBD0F", # Healing Field
 	"364799BA", # Smarter MAC
-	"53CEF116", # Lerk Animation Fix
 	"5C780003"  # Transparent Cloaking
 ]
 
