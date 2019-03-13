@@ -1,9 +1,12 @@
 version = 1
 
 dependencies = [
+	"30BF2431", # Creepier Atmosphere
 	"3417DBEF", # Hades Device
 	"349DBD0F", # Healing Field
 	"364799BA", # Smarter MAC
+	"54711EA2", # Rebirth Bots
+	"563B607D", # Hide Skill Tiers
 	"5C780003"  # Transparent Cloaking
 ]
 
