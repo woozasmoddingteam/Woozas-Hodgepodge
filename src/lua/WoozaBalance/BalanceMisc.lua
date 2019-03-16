@@ -1,0 +1,1 @@
+kCystUnconnectedDamage = 6

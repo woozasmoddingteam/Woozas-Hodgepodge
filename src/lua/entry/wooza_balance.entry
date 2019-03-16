@@ -1,0 +1,4 @@
+modEntry = {
+	FileHooks = "lua/WoozaBalance/FileHooks.lua",
+	Priority = 10, -- Must be lower than TBCB327
+}
