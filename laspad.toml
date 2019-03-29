@@ -7,7 +7,7 @@ dependencies = [
 	"364799BA", # Smarter MAC
 	"54711EA2", # Rebirth Bots
 	"563B607D", # Hide Skill Tiers
-	"6425C240"  # Walk Through Allies
+	#"6425C240"  # Walk Through Allies
 ]
 
 [branch.master]
