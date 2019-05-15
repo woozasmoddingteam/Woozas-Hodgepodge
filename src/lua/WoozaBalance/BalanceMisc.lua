@@ -1,1 +1,1 @@
-kCystUnconnectedDamage = 6
+--kCystUnconnectedDamage = 6

@@ -1,3 +1,5 @@
+do return end
+
 local old = Tunnel.GetLivingTunnelCount
 if not old then return end
 
